@@ -14,4 +14,4 @@
 
 ## Plugin list 
 
-- [bat_previewer](./bat_previewer/) use bat to preview highlighted text
+- [bat_previewer](https://github.com/qkzk/bat_previewer) use bat to preview highlighted text
