@@ -15,3 +15,5 @@
 ## Plugin list 
 
 - [bat_previewer](https://github.com/qkzk/bat_previewer) use bat to preview highlighted text
+- [eml previewer](https://github.com/qkzk/eml_previewer) previews emails (.eml)
+- [sqlite previewer](https://github.com/qkzk/sqlite_previewer_fm) preview sqlite3 databases with fm. Inspired by ranger.
